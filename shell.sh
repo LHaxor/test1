@@ -1,1 +1,1 @@
-echo small
+echo small but not the smallest
